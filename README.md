@@ -1,17 +1,16 @@
-# manaba Enhanced for Tsukuba
+# manaba Enhanced for HGU
 
 Make your manaba a little bit more comfortable.
 
-Get it via [Chrome Web Store](https://chrome.google.com/webstore/detail/manaba-enhanced-for-tsuku/fldngcbchlbfgbccilklplmhljilhfch).
-
-**For students of University of Tsukuba.**
+**For students of University of HGU.**
 
 ![Screenshot](./bin/dist/thumbnail1.png)
 
 ## Supported Univ. / 対応大学
-- University of Tsukuba / 筑波大学
 
-If you want to use it in your univ., please follow the [instruction](https://github.com/mkobayashime/manaba-enhanced#how-to-add-support-for-your-univ) below. 
+- University of HGU / 北海学園大学
+
+If you want to use it in your univ., please follow the [instruction](https://github.com/mkobayashime/manaba-enhanced#how-to-add-support-for-your-univ) below.
 
 ## Features
 
@@ -98,5 +97,7 @@ If your univ. is using manaba and there is *Assignments* tab in the mypage, plea
 Suggestions and pull requests are welcomed!
 
 ## License
+
+Copyright © 2022 Masaki Kobayashi All Rights Reserved.
 
 [MIT License](./LICENSE)
